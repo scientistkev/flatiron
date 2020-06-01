@@ -46,9 +46,15 @@ The libraries used for this project include:
 ### Convolutional Neural Net Architecture
 ![Architecture of CNN](architecture.png)
 
+
+
 ### Validation and Training Accuracy
+![Val/Training Acc](validation_training_accuracy.png)
+
 
 ### Validation and Training Loss
+![Val/Training Loss](validation_training_loss.png)
+
 
 ### Test Results
 precision: 0.8393080781723388
