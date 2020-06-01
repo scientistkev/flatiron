@@ -44,6 +44,7 @@ The libraries used for this project include:
 
 ## Results Visualizations and Test Scores
 ### Convolutional Neural Net Architecture
+![Architecture of CNN](architecture.png)
 
 ### Validation and Training Accuracy
 
