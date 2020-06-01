@@ -69,9 +69,9 @@ fscore: 0.840178946950353
 
 
 ## Built With:
-Jupyter Notebook
-Python 3.8
-scikit.learn
+* Jupyter Notebook
+* Python 3.8
+* scikit.learn
 
 ## Authors
 Kevin McPherson
